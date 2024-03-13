@@ -1,0 +1,14 @@
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height:100vh;
+
+}
+.btn-plays{
+  background-color: aqua;
+  padding : 16px 24px;
+  font-size: 2em;
+  border-radius: 8px;
+  
+}
